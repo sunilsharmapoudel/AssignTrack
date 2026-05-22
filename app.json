@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "AssignTrack",
-    "slug": "AssignTrack",
+    "name": "my-app",
+    "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "assigntrack",
+    "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
